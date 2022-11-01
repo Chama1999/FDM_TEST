@@ -2,7 +2,6 @@ pandas
 numpy 
 matplotlib
 seaborn 
-train_test_split
 KNeighborsClassifier
 DecisionTreeClassifier
 StandardScaler
