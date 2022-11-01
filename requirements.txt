@@ -4,7 +4,6 @@ matplotlib.pyplot
 seaborn 
 warnings
 train_test_split
-accuracy_score, confusion_matrix, classification_report
 KNeighborsClassifier
 DecisionTreeClassifier
 StandardScaler
