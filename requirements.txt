@@ -2,8 +2,6 @@ pandas
 numpy 
 matplotlib
 seaborn 
-KNeighborsClassifier
-DecisionTreeClassifier
 StandardScaler
 MinMaxScaler
 RobustScaler
