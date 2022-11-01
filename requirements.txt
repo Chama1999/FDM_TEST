@@ -1,6 +1,6 @@
 pandas 
 numpy 
-matplotlib.pyplot 
+matplotlib
 seaborn 
 warnings
 train_test_split
